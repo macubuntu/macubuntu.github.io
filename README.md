@@ -1,2 +1,0 @@
-# macubuntu.github.io
-macubuntu
